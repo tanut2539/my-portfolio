@@ -3,6 +3,5 @@
 /.firebase/
 .firebaserc
 firebase*
-package*
 
 .DS_Store
